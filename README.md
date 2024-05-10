@@ -13,14 +13,9 @@ A seasoned full-stack software developer 🚀 with a track record of turning abs
 ### 📊 GitHub Statistics:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan965&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan965&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan965&theme=algolia" alt="zeeshan965" />
 </p>
-
----
-
-### Top Usage Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
