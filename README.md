@@ -13,10 +13,10 @@ A seasoned full-stack software developer 🚀 with a track record of turning abs
 ### 📊 GitHub Statistics:
 
 <a href="https://github.com/zeeshan965">
-  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan965" alt="zeeshan965" />
+  <img height=200 width=410 align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan965" alt="zeeshan965" />
 </a>
 <a href="https://github.com/zeeshan965">
-  <img height=200 width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan965" alt="zeeshan965" />
+  <img height=200 width=410 style="padding: 0 1em;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan965" alt="zeeshan965" />
 </a>
 
 ---
