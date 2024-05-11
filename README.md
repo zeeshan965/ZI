@@ -25,6 +25,4 @@ A seasoned full-stack software developer 🚀 with a track record of turning abs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965\&layout=donut)](https://github.com/zeeshan965/)
 
-***
-
 ---
