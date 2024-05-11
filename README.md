@@ -12,15 +12,19 @@ A seasoned full-stack software developer 🚀 with a track record of turning abs
 
 ### 📊 GitHub Statistics:
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan965&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="GitHub status" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan965&theme=algolia" alt="zeeshan965" />
-</p>
+<a href="https://github.com/zeeshan965">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshan965" alt="zeeshan965" />
+</a>
+<a href="https://github.com/zeeshan965">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan965" alt="zeeshan965" />
+</a>
 
 ---
 
-### Top Usage Languages:
+### Languages I worked on:
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan965\&layout=donut)](https://github.com/zeeshan965/)
+
+***
 
 ---
