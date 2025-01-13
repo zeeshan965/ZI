@@ -1,6 +1,6 @@
 # Hi there, I'm Zeeshan! 👋
 
-A seasoned full-stack software developer 🚀 with a track record of turning abstract ideas💡into fully realized web applications. With over 7️⃣ years of experience in web development and a background in problem-solving competitions, I bring a unique blend of skills and innovation to your projects.
+A seasoned full-stack software developer 🚀 with a track record of turning abstract ideas💡into fully realized web applications. With over 9️⃣ years of experience in web development and a background in problem-solving competitions, I bring a unique blend of skills and innovation to your projects.
 
 ### Connect With Me:
 
